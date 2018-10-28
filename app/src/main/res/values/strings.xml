@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NearPlace</string>
+    <string name="no_internet_connection">No internet access</string>
+    <string name="place_image">place image</string>
+    <string name="add_permission">\"You need to install Google Play Services to use the App properly\"</string>
+    <string name="view_on_map">VIEW ON MAP</string>
+    <string name="icon">place icon</string>
+
+</resources>
